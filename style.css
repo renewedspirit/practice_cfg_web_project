@@ -1,0 +1,10 @@
+div.gallery{
+
+    border: 1px solid coral;
+    justify-content: center;
+}
+
+div.Description{
+    text-align: center;
+    font-size: 40px;
+}
